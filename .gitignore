@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+*.log
+
+# dependencies
+node_modules/
+
+# framework / generated
+.next/
+dist/
+.vinext/
+.sites-runtime/
+.wrangler/
+
+# local env
+.env
+.env.local
+.env.*.local
+
+# misc generated
+coverage/
+*.tsbuildinfo
